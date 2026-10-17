@@ -1,0 +1,6 @@
+{
+  "name": "HR Computer Sikho",
+  "description": "Zero to Computer Pro — आसान हिंदी में। Complete computer course app for beginners with lessons, practical labs, quizzes, bookmarks, notes, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
